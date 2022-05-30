@@ -1,4 +1,4 @@
-# sai-robo
+# Sai Robô
 Sistema Adaptado de Visão Computacional para Controle de Robô.
 
 ## Instalação
