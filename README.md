@@ -1,9 +1,17 @@
 # Sai Robô
+
 Sistema Adaptado de Visão Computacional para Controle de Robô.
+
+## Server
+
+Para utilizar o server basta digitar:
+
+    python3 run.py runserver
+
 
 ## Instalação
 
-## Iniciando o ambiente com as dependências
+## Instalando as dependências na maquina
 
 Resumindo, para criar um ambiente isolado para trabalhar com um projeto com as dependências definidas, basta seguir os passos:
 
